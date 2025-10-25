@@ -20,4 +20,4 @@
     Conducted exploratory data analysis (EDA) to detect price patterns and anomalies.
     Calculated summary statistics and correlation values to support data-driven insights.    
 **Tools & Skills:** 
-    Python, pandas, matplotlib, seaborn, Data Analysis, EDA, Correlation Analysis
+    Python, pandas, matplotlib, seaborn, Data Analysis, EDA, Correlation Analysis.
