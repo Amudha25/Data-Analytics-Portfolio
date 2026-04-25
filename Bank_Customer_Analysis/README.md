@@ -54,8 +54,7 @@ The output is a **5-page interactive Power BI report** designed to support busin
 ![Overview Dashboard](images/overview.png)
 
 ### Profitability Analysis
-Data-Analytics-Portfolio/Bank_Customer_Analysis/images
-/Profitability.png
+!Bank_Customer_Analysis/images/Profitability.png
 
 ### Risk Analysis
 ![Risk Dashboard](images/risk.png)
