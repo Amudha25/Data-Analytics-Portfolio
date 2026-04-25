@@ -63,7 +63,11 @@ The output is a **5-page interactive Power BI report** designed to support busin
 [Product Mix](./images/Product_Mix.png)
 
 ### Wallet Share
+
 [Wallet_Share](./images/Wallet_Share.png)
+
+
+
 ---
 
 ## Recommendations
