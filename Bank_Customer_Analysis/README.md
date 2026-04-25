@@ -74,8 +74,7 @@ The output is a **5-page interactive Power BI report** designed to support busin
 
 ## Files Included
 - Power BI report (.pbix / .pbip)
-- Dataset (anonymized)
-- Supporting documentation
+- Supporting documentation (Customer Relationship Analysis.pptx)
 
 ---
 
