@@ -57,7 +57,7 @@ The output is a **5-page interactive Power BI report** designed to support busin
 [Profitability](./images/Profitability.png)
 
 ### Risk Analysis
-![Risk Dashboard](images/risk.png)
+[Risk Dashboard](./images/Risk Analysis.png)
 
 ### Product Mix & Wallet Share
 ![Product Mix](images/product_mix.png)
