@@ -51,7 +51,7 @@ The output is a **5-page interactive Power BI report** designed to support busin
 ## 📊 Dashboard Preview
 
 ### Overview Dashboard
-![Overview Dashboard](images/overview.png)
+![Executive Summary](images/Executive Summary.png)
 
 ### Profitability Analysis
 [Profitability](./images/Profitability.png)
