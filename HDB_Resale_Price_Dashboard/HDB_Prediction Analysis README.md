@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-📌 ## Project Overview
+📌 Project Overview
 - This project builds a machine learning regression model to predict HDB resale flat prices in Singapore. Using historical transaction data, the model identifies key price drivers and produces price estimates that can help buyers benchmark fair value and sellers set competitive asking prices.
 ---
 ❓ Business Questions Answered
