@@ -6,12 +6,12 @@ This project is a 5-page interactive Power BI dashboard that analyses bank custo
 ---
 ## Business Questions Answered
 
-Which branches generate the highest gross and net profit?
-How does profitability vary across different customer tiers?
-Which customer segments are flagged as high or low profitability?
-How is the product mix distributed across the customer base?
-What is each customer segment's share of wallet?
-Which customers or branches pose the greatest financial risk?
+- Which branches generate the highest gross and net profit?
+- How does profitability vary across different customer tiers?
+- Which customer segments are flagged as high or low profitability?
+- How is the product mix distributed across the customer base?
+- What is each customer segment's share of wallet?
+- Which customers or branches pose the greatest financial risk?
 
 ## Tools Used
 - Power BI Desktop (Data Model, DAX Measures, Dashboards)
@@ -81,13 +81,13 @@ Analyses what share of customer spending/assets the bank captures per segment
 
 ## Key Visuals Used
 
-KPI Cards — Total Gross Profit, Total Net Profit, Total Customers
-Clustered Bar & Column Charts — Profit and customer count by Branch and Customer Tier
-Donut Chart — Customer distribution by tier
-Scatter Chart — Net Profit by Profitability Flag, Gross Profit, and ROE
-100% Stacked Column Chart — Product mix proportions across segments
-Table — Detailed customer-level breakdown
-Slicers — Filter by branch, customer tier, profitability flag, and product
+- KPI Cards — Total Gross Profit, Total Net Profit, Total Customers
+- Clustered Bar & Column Charts — Profit and customer count by Branch and Customer Tier
+- Donut Chart — Customer distribution by tier
+- Scatter Chart — Net Profit by Profitability Flag, Gross Profit, and ROE
+-100% Stacked Column Chart — Product mix proportions across segments
+- Table — Detailed customer-level breakdown
+- Slicers — Filter by branch, customer tier, profitability flag, and product
 
 ---
 
