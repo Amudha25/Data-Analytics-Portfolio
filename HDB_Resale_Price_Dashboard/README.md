@@ -4,7 +4,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 📌 Project Overview
-This project analyses 150,000+ HDB resale flat transactions in Singapore to uncover pricing trends, demand patterns, and market drivers. The data is hosted on Azure SQL Database and visualised through an interactive Power BI dashboard designed for homebuyers, property analysts, and researchers.
+- This project analyses 150,000+ HDB resale flat transactions in Singapore to uncover pricing trends, demand patterns, and market drivers. The data is hosted on Azure SQL Database and visualised through an interactive Power BI dashboard designed for homebuyers, property analysts, and researchers.
 ---
 ❓ Business Questions Answered
 - Which towns have the highest and lowest resale flat prices?
