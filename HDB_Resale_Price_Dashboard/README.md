@@ -59,13 +59,10 @@ Clone the repository
 - Refresh data — Click Refresh in Power BI Desktop to load the latest data
 - Explore the dashboard — Use slicers to filter by town, flat type, and year
 ---
-📂 Data Source
-HDB Resale Flat Prices — data.gov.sg (Singapore Open Data)
+
 ---
 👩‍💻 Author
 Amudha Devi M.  
-Data Analyst | Power BI Developer  
-📧 amumahes@yahoo.com.sg  
-🔗 LinkedIn | GitHub Portfolio
+
 
 
