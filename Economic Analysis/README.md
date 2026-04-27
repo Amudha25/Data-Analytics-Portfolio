@@ -1,61 +1,70 @@
-<h1>Economic Insights Dashboard – Tableau</h1>
+🛒 E-Commerce Sales & Customer Behaviour Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-A fully interactive Tableau dashboard that visualizes and analyzes economic, social, and environmental indicators for countries worldwide. This project is designed to help researchers, analysts, and decision-makers explore global trends and make data-driven choices.
-
-<h3>Project Goal</h3>
-<span style="font-size:20px">
-To build an intuitive dashboard that highlights economic performance, social development, and environmental sustainability across countries. Users can compare key metrics, uncover trends, and spot opportunities at a glance.
-</span>
-
-<h3>Key Insights</h3>
-
-* Top countries by GDP, population, and economic growth
-
-* Comparative analysis of literacy, life expectancy, and healthcare access
-
-* Environmental trends like CO₂ emissions, renewable energy adoption, and protected areas
-
-* Patterns in technology adoption, including internet penetration and mobile subscriptions
-
-* Regional disparities and country-level trends to guide research, policy, and investment decisions
-
-<h3>Tools & Workflow</h3>
-
-* Data Collection: Compiled data from CSV files, Excel sheets, and public datasets.
-
-* Data Cleaning & Transformation: Used Tableau Prep to standardize formats, fix missing values, and ensure consistency.
-
-* Data Modeling: Linked multiple datasets for seamless cross-country comparisons.
-
-* Calculated Fields & KPIs: Created metrics like GDP per capita, growth rate %, life expectancy index, CO₂ per capita, and internet penetration %.
-
-* Visualization: Built interactive dashboards with filters, KPIs, and trend charts for deeper insights.
-
-<h3>Dashboard Features</h3>
-
-* Dynamic filters for country, region, and year
-
-* KPI cards summarizing economic, social, and environmental performance
-
-* Trend charts showing growth, sustainability, and development over time
-
-* Drill-down analysis for regional and country-specific insights
-
-* Comparative visuals to benchmark countries against each other
-
-<h3>Skills Demonstrated</h3>
-
-* Data Cleaning & ETL with Tableau Prep
-
-* Data Modeling & Relationships
-
-* KPI Design & Calculations
-
-* Interactive Data Visualization & Storytelling
-
-* Economic Analysis & Trend Exploration
-
-<h1>Outcome</h1>
-<span style="font-size:20px">
-The dashboard delivers actionable insights into global economic trends, helping users identify high-performing countries, spot growth opportunities, and track social and environmental progress. It’s a tool for informed decision-making, policy planning, and research.
-</span>
+📌 Project Overview
+This project analyses an e-commerce company's sales data to understand customer behaviour, sales performance, and profitability across product categories and regions. The Power BI dashboard helps business teams identify growth opportunities, optimise product strategy, and improve marketing targeting.
+---
+❓ Business Questions Answered
+- Which product categories generate the most revenue and profit?
+- Who are the most valuable customer segments?
+- Are there seasonal patterns in sales that can inform promotions?
+- Which regions are underperforming and why?
+- What is the relationship between discount levels and profitability?
+---
+🔍 Key Insights
+- Technology is the highest revenue category, but Office Supplies has the highest profit margin percentage
+- The top 20% of customers account for over 60% of total revenue — strong case for loyalty programmes
+- Q4 (Oct–Dec) consistently generates 35%+ of annual revenue due to year-end demand spikes
+- Heavy discounting (>30%) correlates with negative profit margins in the Furniture category
+- The Central region shows the lowest profit margin despite above-average sales volume, suggesting high fulfilment costs
+---
+🛠️ Tools & Technologies
+Tool	Purpose
+- Microsoft Excel	Data cleaning, pivot tables, and initial exploration
+- Power BI Desktop	Data modelling, DAX measures, interactive dashboards
+- Power Query	Data transformation and column standardisation
+- DAX	Custom KPI measures (profit margin %, YoY growth, customer LTV)
+---
+📊 Dashboard Features
+- Executive Summary Page — Total revenue, profit, orders, and YoY growth KPIs
+- Sales by Category — Bar chart breakdown of revenue and profit by product category
+- Customer Segmentation — RFM (Recency, Frequency, Monetary) analysis by segment
+- Regional Performance Map — Geographic heatmap of sales and profit by region/state
+- Time-Series Analysis — Monthly sales trend with forecast overlay
+- Discount vs. Profit Analysis — Scatter plot highlighting unprofitable discount bands
+- Slicers — Filter by year, category, region, and customer segment
+---
+📁 Repository Structure
+```
+Market Analysis/
+├── data/
+│   └── ecommerce_sales_data.xlsx      # Cleaned source dataset
+├── powerbi/
+│   └── Ecommerce_Dashboard.pbix       # Power BI file
+├── excel/
+│   └── EDA_Pivot_Analysis.xlsx        # Excel exploratory analysis
+├── screenshots/
+│   ├── executive_summary.png
+│   ├── customer_segments.png
+│   └── regional_performance.png
+└── README.md
+```
+---
+▶️ How to Run This Project
+Clone the repository
+```bash
+   git clone https://github.com/Amudha25/Data-Analytics-Portfolio.git
+   cd "Data-Analytics-Portfolio/Market Analysis"
+   ```
+- Open Excel file — Review the raw data and pivot analysis in `EDA_Pivot_Analysis.xlsx`
+- Open Power BI file — Open `Ecommerce_Dashboard.pbix` in Power BI Desktop
+- Refresh data source — Update the file path to your local copy of the Excel data and click Refresh
+- Explore the dashboard — Use slicers to filter by year, category, and region
+---
+---
+👩‍💻 Author
+Amudha Devi M.  
+Data Analyst | Power BI Developer  
+📧 amumahes@yahoo.com.sg  
+🔗 LinkedIn | GitHub Portfolio
