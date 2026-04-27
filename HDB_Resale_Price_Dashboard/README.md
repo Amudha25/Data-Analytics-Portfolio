@@ -2,6 +2,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 📌 Project Overview
 This project analyses 150,000+ HDB resale flat transactions in Singapore to uncover pricing trends, demand patterns, and market drivers. The data is hosted on Azure SQL Database and visualised through an interactive Power BI dashboard designed for homebuyers, property analysts, and researchers.
 ---
